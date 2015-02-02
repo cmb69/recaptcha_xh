@@ -3,7 +3,7 @@
 /**
  * Captcha of Recaptcha_XH.
  *
- * Copyright (c) 2011 Christoph M. Becker (see license.txt)
+ * Copyright (c) 2011-2015 Christoph M. Becker (see license.txt)
  */
  
 

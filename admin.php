@@ -2,7 +2,7 @@
 
 /**
  * Backend-functionality of Recaptcha_XH.
- * Copyright (c) 2011 Christoph M. Becker (see license.txt)
+ * Copyright (c) 2011-2015 Christoph M. Becker (see license.txt)
  */
  
 
@@ -30,7 +30,7 @@ function recaptcha_version() {
 	    .'<p>Recaptcha_XH is powered by '
 	    .'<a href="http://recaptcha.net/" target="_blank">'
 	    .'reCAPTCHA</a>.</p>'."\n"
-	    .'<p>Copyright &copy; 2011 Christoph M. Becker</p>'."\n"
+	    .'<p>Copyright &copy; 2011-2015 Christoph M. Becker</p>'."\n"
 	    .'<p style="text-align:justify">This program is free software: you can redistribute it and/or modify'
 	    .' it under the terms of the GNU General Public License as published by'
 	    .' the Free Software Foundation, either version 3 of the License, or'
